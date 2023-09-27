@@ -18,6 +18,4 @@ public class Tubo {
         superficie = 2 * 3.14 * raggio * (raggio + altezza);
         return superficie;
     }
-
-
 }
