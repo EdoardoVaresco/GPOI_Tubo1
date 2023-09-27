@@ -6,7 +6,9 @@ public class Main {
         double altezza;
         double raggio;
 
-
-
+        System.out.println("Inserisci il raggio del tubo");
+        raggio = input.nextDouble();
+        System.out.println("Inserisci l'altezza del tubo");
+        altezza = input.nextDouble();
     }
 }
